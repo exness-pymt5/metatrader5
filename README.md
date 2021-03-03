@@ -31,3 +31,5 @@ Use MetaTrader5 Library to easily build trading system in a given trading strate
 
 =======================================
 
+# Disclaimer:
+Warning: CFDs are leveraged products. Trading in CFDs carries a high level of risk thus may not be appropriate for all investors. The investment value can both increase and decrease and the investors may lose all their invested capital. Under no circumstances shall the Company have any liability to any person or entity for any loss or damage in whole or part caused by, resulting from, or relating to any transactions related to CFDs. Learn More
