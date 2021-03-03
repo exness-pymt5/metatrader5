@@ -19,12 +19,12 @@ Use MetaTrader5 Library to easily build trading system in a given trading strate
 
 ● Set up Account
 
-  ○ Calling data
+    ○ Calling data
   
-  ○ Cleaning data
+    ○ Cleaning data
   
-  ○ Set up Strategy from Quantpedia
+    ○ Set up Strategy from Quantpedia
   
-  ○ Test Sending order
+    ○ Test Sending order
   
 ● Result
