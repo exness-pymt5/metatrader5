@@ -28,3 +28,6 @@ Use MetaTrader5 Library to easily build trading system in a given trading strate
     ○ Test Sending order
   
 ● Result
+
+=======================================
+
