@@ -1,4 +1,4 @@
-# metatrader5
+# Exness metatrader5
 Exness MetaTrader5 trading with Python.
 MetaTrader module for integration with Python
 Python is a modern high-level programming language for developing scripts and applications. It contains multiple libraries for machine learning, process automation, as well as data analysis and visualization.
