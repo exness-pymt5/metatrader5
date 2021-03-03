@@ -6,14 +6,25 @@ MetaTrader package for Python is designed for convenient and fast obtaining of e
 For full documentation, see https://www.mql5.com/en/docs/integration/python_metatrader5
 
 Use MetaTrader5 Library to easily build trading system in a given trading strategy on Python
+
 ● What is MetaTrader5 Library
+
 ● Install Anaconda the package manipulated
+
 ● Coding with Jupyter notebook IDE
+
 ● Install MetaTrader5 library via pip command
+
 ● Import necessary library for build trading strategy
+
 ● Set up Account
-○ Calling data
-○ Cleaning data
-○ Set up Strategy from Quantpedia
-○ T est Sending order
+
+  ○ Calling data
+  
+  ○ Cleaning data
+  
+  ○ Set up Strategy from Quantpedia
+  
+  ○ Test Sending order
+  
 ● Result
